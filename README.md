@@ -1,3 +1,3 @@
 # UnityDumpster
 
-Raccolta di demo utilizzate per l'apprendimento di Unity e di C#
+Raccolta di demo sviluppate durante il corso di Grafica ed Interattività.
