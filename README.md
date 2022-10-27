@@ -22,4 +22,19 @@ Il cilindro rotolerà fino a colpire i blocchi di legno. In alto a destra viene 
 Questa demo non prevede interazione con l'utente. Per uscire dalla demo bisognerà premere `Alt+F4`.
 
 
-## Altra demo
+## BallsFallingBouncing
+
+<img src="https://media.discordapp.net/attachments/373468064022396930/1035217139046547467/unknown.png" width="480" height="270">
+Tre palline rimbalzeranno fino a cadere dalla piattaforma.
+
+Quando cadranno, sarà Game Over.
+
+Se si clicca sul bottone `NUOVA PARTITA` si accederà ad una scena diversa:
+
+<img src="https://media.discordapp.net/attachments/373468064022396930/1035217169102950522/unknown.png" width="480" height="270">
+
+In questa scena, è possibile immettere un numero nello spazio in basso a sinistra.
+
+Premendo sul bottone `FIRE` verrà spawnato il numero di palline specificato.
+
+Per uscire dalla demo bisognerà premere `Alt+F4`.
