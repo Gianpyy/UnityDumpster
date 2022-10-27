@@ -39,6 +39,7 @@ Premendo sul bottone `FIRE` verrà spawnato il numero di palline specificato.
 
 _Per favore, non inserite un numero troppo grande_
 
-<img src="https://media.giphy.com/media/2YjKax4dAvLAPtfY5W/giphy.gif" width="480" height="270" />
+![alt](ezgif-1-1fd282b483.gif)
 
 Per uscire dalla demo bisognerà premere `Alt+F4`.
+_Soprattutto se hai spawnato 10000 palline_
