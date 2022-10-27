@@ -37,4 +37,8 @@ In questa scena, è possibile immettere un numero nello spazio in basso a sinist
 
 Premendo sul bottone `FIRE` verrà spawnato il numero di palline specificato.
 
+_Per favore, non inserite un numero troppo grande_
+
+<img src="https://media.giphy.com/media/2YjKax4dAvLAPtfY5W/giphy.gif" width="480" height="270" />
+
 Per uscire dalla demo bisognerà premere `Alt+F4`.
