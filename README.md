@@ -42,4 +42,5 @@ _Per favore, non inserite un numero troppo grande_
 ![alt](ezgif-1-1fd282b483.gif)
 
 Per uscire dalla demo bisognerà premere `Alt+F4`.
+
 _Soprattutto se hai spawnato 10000 palline_
