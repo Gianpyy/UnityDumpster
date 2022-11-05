@@ -44,3 +44,7 @@ _Per favore, non inserite un numero troppo grande_
 Per uscire dalla demo bisognerà premere `Alt+F4`.
 
 _Soprattutto se hai spawnato 10000 palline_
+
+
+## Author
+Gianpio Silvestri - [Gianpyy](https://github.com/Gianpyy)
